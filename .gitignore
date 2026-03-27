@@ -1,0 +1,4 @@
+node_modules/
+papers/run.log
+launch_claude_summary.bat
+fetch_top_paper.js
