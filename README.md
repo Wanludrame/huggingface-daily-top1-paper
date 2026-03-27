@@ -14,8 +14,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-03-26 | [RealMaster: Lifting Rendered Scenes into Photorealistic Video](papers/2026-03-26.md) |
 | 2026-03-25 | [Look Where It Matters: High-Resolution Crops Retrieval for Efficient VLMs](papers/2026-03-25.md) |
 | 2026-03-24 | [Reasoning as Compression: Unifying Budget Forcing via the Conditional Information Bottleneck](papers/2026-03-24.md) |
-| 2026-03-23 | [Reasoning as Compression: Unifying Budget Forcing via the Conditional Information Bottleneck](papers/2026-03-23.md) |
-| 2026-03-19 | [MosaicMem: Hybrid Spatial Memory for Controllable Video World Models](papers/2026-03-19.md) |
 
 ## All Papers / 完整目录
 
@@ -25,8 +23,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-03-26 | [RealMaster: Lifting Rendered Scenes into Photorealistic Video](papers/2026-03-26.md) |
 | 2026-03-25 | [Look Where It Matters: High-Resolution Crops Retrieval for Efficient VLMs](papers/2026-03-25.md) |
 | 2026-03-24 | [Reasoning as Compression: Unifying Budget Forcing via the Conditional Information Bottleneck](papers/2026-03-24.md) |
-| 2026-03-23 | [Reasoning as Compression: Unifying Budget Forcing via the Conditional Information Bottleneck](papers/2026-03-23.md) |
-| 2026-03-19 | [MosaicMem: Hybrid Spatial Memory for Controllable Video World Models](papers/2026-03-19.md) |
 
 ---
 
