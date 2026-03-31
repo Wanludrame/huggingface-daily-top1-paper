@@ -1,7 +1,9 @@
 # All Papers / 完整目录
 
 | 日期 Date | 论文 Paper |
-|-----------|-----------|
+|-----------|----------|
+| 2026-03-31 | [PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference](papers/2026-03-31.md) |
+| 2026-03-30 | [Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models](papers/2026-03-30.md) |
 | 2026-03-27 | [EVA: Efficient Reinforcement Learning for End-to-End Video Agent](papers/2026-03-27.md) |
 | 2026-03-26 | [RealMaster: Lifting Rendered Scenes into Photorealistic Video](papers/2026-03-26.md) |
 | 2026-03-25 | [Look Where It Matters: High-Resolution Crops Retrieval for Efficient VLMs](papers/2026-03-25.md) |
