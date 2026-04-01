@@ -9,7 +9,8 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 ## Latest / 最新论文解读
 
 | 日期 Date | 论文 Paper |
-|-----------|----------|
+|-----------|-----------|
+| 2026-04-01 | [FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization](papers/2026-04-01.md) |
 | 2026-03-31 | [PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference](papers/2026-03-31.md) |
 | 2026-03-30 | [Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models](papers/2026-03-30.md) |
 | 2026-03-27 | [EVA: Efficient Reinforcement Learning for End-to-End Video Agent](papers/2026-03-27.md) |
