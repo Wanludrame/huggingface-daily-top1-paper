@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-04-02 | [Dynin-Omni: Omnimodal Unified Large Diffusion Language Model](papers/2026-04-02.md) |
 | 2026-04-01 | [FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization](papers/2026-04-01.md) |
 | 2026-03-31 | [PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference](papers/2026-03-31.md) |
 | 2026-03-30 | [Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models](papers/2026-03-30.md) |
