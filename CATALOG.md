@@ -2,6 +2,10 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-04-07 | [Test-Time Scaling Makes Overtraining Compute-Optimal](papers/2026-04-07.md) |
+| 2026-04-06 | [SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing](papers/2026-04-06.md) |
+| 2026-04-05 | [AURA: Always-On Understanding and Real-Time Assistance via Video Streams](papers/2026-04-05.md) |
+| 2026-04-03 | [Self-Distilled RLVR](papers/2026-04-03.md) |
 | 2026-04-02 | [Dynin-Omni: Omnimodal Unified Large Diffusion Language Model](papers/2026-04-02.md) |
 | 2026-04-01 | [FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization](papers/2026-04-01.md) |
 | 2026-03-31 | [PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference](papers/2026-03-31.md) |
