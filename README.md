@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-04-08 | [ThinkTwice: Jointly Optimizing Large Language Models for Reasoning and Self-Refinement](papers/2026-04-08.md) |
 | 2026-04-07 | [Test-Time Scaling Makes Overtraining Compute-Optimal](papers/2026-04-07.md) |
 | 2026-04-06 | [SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing](papers/2026-04-06.md) |
 | 2026-04-05 | [AURA: Always-On Understanding and Real-Time Assistance via Video Streams](papers/2026-04-05.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-03-31 | [PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference](papers/2026-03-31.md) |
 | 2026-03-30 | [Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models](papers/2026-03-30.md) |
 | 2026-03-27 | [EVA: Efficient Reinforcement Learning for End-to-End Video Agent](papers/2026-03-27.md) |
-| 2026-03-26 | [RealMaster: Lifting Rendered Scenes into Photorealistic Video](papers/2026-03-26.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
