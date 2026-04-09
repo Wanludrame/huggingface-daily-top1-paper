@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-04-09 | [Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning](papers/2026-04-09.md) |
 | 2026-04-08 | [ThinkTwice: Jointly Optimizing Large Language Models for Reasoning and Self-Refinement](papers/2026-04-08.md) |
 | 2026-04-07 | [Test-Time Scaling Makes Overtraining Compute-Optimal](papers/2026-04-07.md) |
 | 2026-04-06 | [SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing](papers/2026-04-06.md) |
