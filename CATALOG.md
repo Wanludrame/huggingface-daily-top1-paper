@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-04-10 | [Combee: Scaling Prompt Learning for Self-Improving Language Model Agents](papers/2026-04-10.md) |
 | 2026-04-09 | [Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning](papers/2026-04-09.md) |
 | 2026-04-08 | [ThinkTwice: Jointly Optimizing Large Language Models for Reasoning and Self-Refinement](papers/2026-04-08.md) |
 | 2026-04-07 | [Test-Time Scaling Makes Overtraining Compute-Optimal](papers/2026-04-07.md) |
