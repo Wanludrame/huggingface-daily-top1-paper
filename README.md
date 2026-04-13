@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-04-13 | [ClawBench: Can AI Agents Complete Everyday Online Tasks?](papers/2026-04-13.md) |
 | 2026-04-11 | [ClawBench: Can AI Agents Complete Everyday Online Tasks?](papers/2026-04-11.md) |
 | 2026-04-10 | [Combee: Scaling Prompt Learning for Self-Improving Language Model Agents](papers/2026-04-10.md) |
 | 2026-04-09 | [Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning](papers/2026-04-09.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-04-05 | [AURA: Always-On Understanding and Real-Time Assistance via Video Streams](papers/2026-04-05.md) |
 | 2026-04-03 | [Self-Distilled RLVR](papers/2026-04-03.md) |
 | 2026-04-02 | [Dynin-Omni: Omnimodal Unified Large Diffusion Language Model](papers/2026-04-02.md) |
-| 2026-04-01 | [FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization](papers/2026-04-01.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
