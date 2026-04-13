@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-04-14 | [Multi-User Large Language Model Agents](papers/2026-04-14.md) |
 | 2026-04-13 | [ClawBench: Can AI Agents Complete Everyday Online Tasks?](papers/2026-04-13.md) |
 | 2026-04-11 | [ClawBench: Can AI Agents Complete Everyday Online Tasks?](papers/2026-04-11.md) |
 | 2026-04-10 | [Combee: Scaling Prompt Learning for Self-Improving Language Model Agents](papers/2026-04-10.md) |
