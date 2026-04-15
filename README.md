@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-04-15 | [ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](papers/2026-04-15.md) |
 | 2026-04-14 | [Multi-User Large Language Model Agents](papers/2026-04-14.md) |
 | 2026-04-13 | [ClawBench: Can AI Agents Complete Everyday Online Tasks?](papers/2026-04-13.md) |
 | 2026-04-11 | [ClawBench: Can AI Agents Complete Everyday Online Tasks?](papers/2026-04-11.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-04-07 | [Test-Time Scaling Makes Overtraining Compute-Optimal](papers/2026-04-07.md) |
 | 2026-04-06 | [SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing](papers/2026-04-06.md) |
 | 2026-04-05 | [AURA: Always-On Understanding and Real-Time Assistance via Video Streams](papers/2026-04-05.md) |
-| 2026-04-03 | [Self-Distilled RLVR](papers/2026-04-03.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
