@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-04-17 | [Target Policy Optimization](papers/2026-04-17.md) |
 | 2026-04-16 | [RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time](papers/2026-04-16.md) |
 | 2026-04-15 | [ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](papers/2026-04-15.md) |
 | 2026-04-14 | [Multi-User Large Language Model Agents](papers/2026-04-14.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-04-09 | [Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning](papers/2026-04-09.md) |
 | 2026-04-08 | [ThinkTwice: Jointly Optimizing Large Language Models for Reasoning and Self-Refinement](papers/2026-04-08.md) |
 | 2026-04-07 | [Test-Time Scaling Makes Overtraining Compute-Optimal](papers/2026-04-07.md) |
-| 2026-04-06 | [SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing](papers/2026-04-06.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
