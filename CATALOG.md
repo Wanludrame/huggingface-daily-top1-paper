@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-04-16 | [RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time](papers/2026-04-16.md) |
 | 2026-04-15 | [ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents](papers/2026-04-15.md) |
 | 2026-04-14 | [Multi-User Large Language Model Agents](papers/2026-04-14.md) |
 | 2026-04-13 | [ClawBench: Can AI Agents Complete Everyday Online Tasks?](papers/2026-04-13.md) |
