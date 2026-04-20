@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-04-21 | [Elucidating the SNR-t Bias of Diffusion Probabilistic Models](papers/2026-04-21.md) |
 | 2026-04-18 | [Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models](papers/2026-04-18.md) |
 | 2026-04-17 | [Target Policy Optimization](papers/2026-04-17.md) |
 | 2026-04-16 | [RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time](papers/2026-04-16.md) |
