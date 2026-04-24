@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-04-25 | [LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics](papers/2026-04-25.md) |
 | 2026-04-24 | [OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis](papers/2026-04-24.md) |
 | 2026-04-23 | [ShadowPEFT: Shadow Network for Parameter-Efficient Fine-Tuning](papers/2026-04-23.md) |
 | 2026-04-22 | [The Illusion of Certainty: Decoupling Capability and Calibration in On-Policy Distillation](papers/2026-04-22.md) |
