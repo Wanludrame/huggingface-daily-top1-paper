@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-04-28 | [From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company](papers/2026-04-28.md) |
 | 2026-04-27 | [LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics](papers/2026-04-27.md) |
 | 2026-04-25 | [LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics](papers/2026-04-25.md) |
 | 2026-04-24 | [OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis](papers/2026-04-24.md) |
