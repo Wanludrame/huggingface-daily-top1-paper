@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-05-01 | [Large Language Models Explore by Latent Distilling](papers/2026-05-01.md) |
 | 2026-04-30 | [AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery](papers/2026-04-30.md) |
 | 2026-04-29 | [Why Fine-Tuning Encourages Hallucinations and How to Fix It](papers/2026-04-29.md) |
 | 2026-04-28 | [From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company](papers/2026-04-28.md) |
