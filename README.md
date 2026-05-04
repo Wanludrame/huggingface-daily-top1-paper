@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-05-05 | [Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction](papers/2026-05-05.md) |
 | 2026-05-04 | [Efficient Training on Multiple Consumer GPUs with RoundPipe](papers/2026-05-04.md) |
 | 2026-05-03 | [Efficient Training on Multiple Consumer GPUs with RoundPipe](papers/2026-05-03.md) |
 | 2026-05-02 | [Efficient Training on Multiple Consumer GPUs with RoundPipe](papers/2026-05-02.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-04-28 | [From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company](papers/2026-04-28.md) |
 | 2026-04-27 | [LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics](papers/2026-04-27.md) |
 | 2026-04-25 | [LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics](papers/2026-04-25.md) |
-| 2026-04-24 | [OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis](papers/2026-04-24.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
