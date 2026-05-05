@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-05-06 | [Hallucinations Undermine Trust; Metacognition is a Way Forward](papers/2026-05-06.md) |
 | 2026-05-05 | [Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction](papers/2026-05-05.md) |
 | 2026-05-04 | [Efficient Training on Multiple Consumer GPUs with RoundPipe](papers/2026-05-04.md) |
 | 2026-05-03 | [Efficient Training on Multiple Consumer GPUs with RoundPipe](papers/2026-05-03.md) |
