@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-05-08 | [MiA-Signature: Approximating Global Activation for Long-Context Understanding](papers/2026-05-08.md) |
 | 2026-05-07 | [ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](papers/2026-05-07.md) |
 | 2026-05-06 | [Hallucinations Undermine Trust; Metacognition is a Way Forward](papers/2026-05-06.md) |
 | 2026-05-05 | [Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction](papers/2026-05-05.md) |
