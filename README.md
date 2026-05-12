@@ -10,16 +10,16 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-05-12 | [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](papers/2026-05-12.md) |
+| 2026-05-11 | [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](papers/2026-05-11.md) |
+| 2026-05-10 | [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](papers/2026-05-10.md) |
+| 2026-05-09 | [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](papers/2026-05-09.md) |
 | 2026-05-08 | [MiA-Signature: Approximating Global Activation for Long-Context Understanding](papers/2026-05-08.md) |
 | 2026-05-07 | [ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](papers/2026-05-07.md) |
 | 2026-05-06 | [Hallucinations Undermine Trust; Metacognition is a Way Forward](papers/2026-05-06.md) |
 | 2026-05-05 | [Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction](papers/2026-05-05.md) |
 | 2026-05-04 | [Efficient Training on Multiple Consumer GPUs with RoundPipe](papers/2026-05-04.md) |
 | 2026-05-03 | [Efficient Training on Multiple Consumer GPUs with RoundPipe](papers/2026-05-03.md) |
-| 2026-05-02 | [Efficient Training on Multiple Consumer GPUs with RoundPipe](papers/2026-05-02.md) |
-| 2026-05-01 | [Large Language Models Explore by Latent Distilling](papers/2026-05-01.md) |
-| 2026-04-30 | [AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery](papers/2026-04-30.md) |
-| 2026-04-29 | [Why Fine-Tuning Encourages Hallucinations and How to Fix It](papers/2026-04-29.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 

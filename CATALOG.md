@@ -2,6 +2,10 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-05-12 | [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](papers/2026-05-12.md) |
+| 2026-05-11 | [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](papers/2026-05-11.md) |
+| 2026-05-10 | [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](papers/2026-05-10.md) |
+| 2026-05-09 | [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](papers/2026-05-09.md) |
 | 2026-05-08 | [MiA-Signature: Approximating Global Activation for Long-Context Understanding](papers/2026-05-08.md) |
 | 2026-05-07 | [ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](papers/2026-05-07.md) |
 | 2026-05-06 | [Hallucinations Undermine Trust; Metacognition is a Way Forward](papers/2026-05-06.md) |
