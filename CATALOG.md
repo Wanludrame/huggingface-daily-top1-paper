@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-05-13 | [Addressing Performance Saturation for LLM RL via Precise Entropy Curve Control](papers/2026-05-13.md) |
 | 2026-05-12 | [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](papers/2026-05-12.md) |
 | 2026-05-11 | [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](papers/2026-05-11.md) |
 | 2026-05-10 | [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](papers/2026-05-10.md) |
