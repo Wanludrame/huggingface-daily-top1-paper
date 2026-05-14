@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-05-15 | [EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents](papers/2026-05-15.md) |
 | 2026-05-14 | [Covering Human Action Space for Computer Use: Data Synthesis and Benchmark](papers/2026-05-14.md) |
 | 2026-05-13 | [Addressing Performance Saturation for LLM RL via Precise Entropy Curve Control](papers/2026-05-13.md) |
 | 2026-05-12 | [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](papers/2026-05-12.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-05-08 | [MiA-Signature: Approximating Global Activation for Long-Context Understanding](papers/2026-05-08.md) |
 | 2026-05-07 | [ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration](papers/2026-05-07.md) |
 | 2026-05-06 | [Hallucinations Undermine Trust; Metacognition is a Way Forward](papers/2026-05-06.md) |
-| 2026-05-05 | [Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction](papers/2026-05-05.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 

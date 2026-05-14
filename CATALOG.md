@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-05-15 | [EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents](papers/2026-05-15.md) |
 | 2026-05-14 | [Covering Human Action Space for Computer Use: Data Synthesis and Benchmark](papers/2026-05-14.md) |
 | 2026-05-13 | [Addressing Performance Saturation for LLM RL via Precise Entropy Curve Control](papers/2026-05-13.md) |
 | 2026-05-12 | [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](papers/2026-05-12.md) |
