@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-05-17 | [Long Context Pre-Training with Lighthouse Attention](papers/2026-05-17.md) |
 | 2026-05-16 | [Learning to Communicate Locally for Large-Scale Multi-Agent Pathfinding](papers/2026-05-16.md) |
 | 2026-05-15 | [EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents](papers/2026-05-15.md) |
 | 2026-05-14 | [Covering Human Action Space for Computer Use: Data Synthesis and Benchmark](papers/2026-05-14.md) |
