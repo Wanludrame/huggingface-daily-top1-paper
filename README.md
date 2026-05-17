@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-05-18 | [Long Context Pre-Training with Lighthouse Attention](papers/2026-05-18.md) |
 | 2026-05-17 | [Long Context Pre-Training with Lighthouse Attention](papers/2026-05-17.md) |
 | 2026-05-16 | [Learning to Communicate Locally for Large-Scale Multi-Agent Pathfinding](papers/2026-05-16.md) |
 | 2026-05-15 | [EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents](papers/2026-05-15.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-05-11 | [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](papers/2026-05-11.md) |
 | 2026-05-10 | [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](papers/2026-05-10.md) |
 | 2026-05-09 | [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](papers/2026-05-09.md) |
-| 2026-05-08 | [MiA-Signature: Approximating Global Activation for Long-Context Understanding](papers/2026-05-08.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
