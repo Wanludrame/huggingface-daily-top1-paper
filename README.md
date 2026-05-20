@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-05-21 | [Interactive Evaluation Requires a Design Science](papers/2026-05-21.md) |
 | 2026-05-20 | [AstraFlow: Dataflow-Oriented Reinforcement Learning for Agentic LLMs](papers/2026-05-20.md) |
 | 2026-05-19 | [MetaAgent-X : Breaking the Ceiling of Automatic Multi-Agent Systems via End-to-End Reinforcement Learning](papers/2026-05-19.md) |
 | 2026-05-18 | [Long Context Pre-Training with Lighthouse Attention](papers/2026-05-18.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-05-14 | [Covering Human Action Space for Computer Use: Data Synthesis and Benchmark](papers/2026-05-14.md) |
 | 2026-05-13 | [Addressing Performance Saturation for LLM RL via Precise Entropy Curve Control](papers/2026-05-13.md) |
 | 2026-05-12 | [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](papers/2026-05-12.md) |
-| 2026-05-11 | [TMAS: Scaling Test-Time Compute via Multi-Agent Synergy](papers/2026-05-11.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
