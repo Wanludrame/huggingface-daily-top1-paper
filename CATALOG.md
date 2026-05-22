@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-05-23 | [Forecasting Scientific Progress with Artificial Intelligence](papers/2026-05-23.md) |
 | 2026-05-22 | [Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos](papers/2026-05-22.md) |
 | 2026-05-21 | [Interactive Evaluation Requires a Design Science](papers/2026-05-21.md) |
 | 2026-05-20 | [AstraFlow: Dataflow-Oriented Reinforcement Learning for Agentic LLMs](papers/2026-05-20.md) |
