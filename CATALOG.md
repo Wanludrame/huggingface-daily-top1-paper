@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-05-25 | [Forecasting Scientific Progress with Artificial Intelligence](papers/2026-05-25.md) |
 | 2026-05-24 | [Forecasting Scientific Progress with Artificial Intelligence](papers/2026-05-24.md) |
 | 2026-05-23 | [Forecasting Scientific Progress with Artificial Intelligence](papers/2026-05-23.md) |
 | 2026-05-22 | [Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos](papers/2026-05-22.md) |
