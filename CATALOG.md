@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-05-26 | [SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research](papers/2026-05-26.md) |
 | 2026-05-25 | [Forecasting Scientific Progress with Artificial Intelligence](papers/2026-05-25.md) |
 | 2026-05-24 | [Forecasting Scientific Progress with Artificial Intelligence](papers/2026-05-24.md) |
 | 2026-05-23 | [Forecasting Scientific Progress with Artificial Intelligence](papers/2026-05-23.md) |
