@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-05-28 | [JLT: Clean-Latent Prediction in Latent Diffusion Transformers](papers/2026-05-28.md) |
 | 2026-05-27 | [CUA-Gym: Scaling Verifiable Training Environments and Tasks for Computer-Use Agents](papers/2026-05-27.md) |
 | 2026-05-26 | [SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research](papers/2026-05-26.md) |
 | 2026-05-25 | [Forecasting Scientific Progress with Artificial Intelligence](papers/2026-05-25.md) |

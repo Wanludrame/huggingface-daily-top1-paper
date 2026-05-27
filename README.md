@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-05-28 | [JLT: Clean-Latent Prediction in Latent Diffusion Transformers](papers/2026-05-28.md) |
 | 2026-05-27 | [CUA-Gym: Scaling Verifiable Training Environments and Tasks for Computer-Use Agents](papers/2026-05-27.md) |
 | 2026-05-26 | [SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research](papers/2026-05-26.md) |
 | 2026-05-25 | [Forecasting Scientific Progress with Artificial Intelligence](papers/2026-05-25.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-05-21 | [Interactive Evaluation Requires a Design Science](papers/2026-05-21.md) |
 | 2026-05-20 | [AstraFlow: Dataflow-Oriented Reinforcement Learning for Agentic LLMs](papers/2026-05-20.md) |
 | 2026-05-19 | [MetaAgent-X : Breaking the Ceiling of Automatic Multi-Agent Systems via End-to-End Reinforcement Learning](papers/2026-05-19.md) |
-| 2026-05-18 | [Long Context Pre-Training with Lighthouse Attention](papers/2026-05-18.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
