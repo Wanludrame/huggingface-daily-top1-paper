@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-05-31 | [Why Far Looks Up: Probing Spatial Representation in Vision-Language Models](papers/2026-05-31.md) |
 | 2026-05-29 | [GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection](papers/2026-05-29.md) |
 | 2026-05-28 | [JLT: Clean-Latent Prediction in Latent Diffusion Transformers](papers/2026-05-28.md) |
 | 2026-05-27 | [CUA-Gym: Scaling Verifiable Training Environments and Tasks for Computer-Use Agents](papers/2026-05-27.md) |
