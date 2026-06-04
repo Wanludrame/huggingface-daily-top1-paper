@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-06-05 | [ZipSplat: Fewer Gaussians, Better Splats](papers/2026-06-05.md) |
 | 2026-06-04 | [KVarN: Variance-Normalized KV-Cache Quantization Mitigates Error Accumulation in Reasoning Tasks](papers/2026-06-04.md) |
 | 2026-06-03 | [Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses](papers/2026-06-03.md) |
 | 2026-06-02 | [Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents](papers/2026-06-02.md) |
