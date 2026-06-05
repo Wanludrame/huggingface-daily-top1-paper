@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-06-06 | [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](papers/2026-06-06.md) |
 | 2026-06-05 | [ZipSplat: Fewer Gaussians, Better Splats](papers/2026-06-05.md) |
 | 2026-06-04 | [KVarN: Variance-Normalized KV-Cache Quantization Mitigates Error Accumulation in Reasoning Tasks](papers/2026-06-04.md) |
 | 2026-06-03 | [Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses](papers/2026-06-03.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-05-29 | [GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection](papers/2026-05-29.md) |
 | 2026-05-28 | [JLT: Clean-Latent Prediction in Latent Diffusion Transformers](papers/2026-05-28.md) |
 | 2026-05-27 | [CUA-Gym: Scaling Verifiable Training Environments and Tasks for Computer-Use Agents](papers/2026-05-27.md) |
-| 2026-05-26 | [SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research](papers/2026-05-26.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
