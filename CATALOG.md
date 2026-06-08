@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-06-09 | [UnpredictaBench: A Benchmark for Evaluating Distributional Randomness in LLMs](papers/2026-06-09.md) |
 | 2026-06-08 | [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](papers/2026-06-08.md) |
 | 2026-06-07 | [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](papers/2026-06-07.md) |
 | 2026-06-06 | [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](papers/2026-06-06.md) |
