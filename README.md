@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-06-10 | [Agents' Last Exam](papers/2026-06-10.md) |
 | 2026-06-09 | [UnpredictaBench: A Benchmark for Evaluating Distributional Randomness in LLMs](papers/2026-06-09.md) |
 | 2026-06-08 | [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](papers/2026-06-08.md) |
 | 2026-06-07 | [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](papers/2026-06-07.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-06-03 | [Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses](papers/2026-06-03.md) |
 | 2026-06-02 | [Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents](papers/2026-06-02.md) |
 | 2026-06-01 | [Why Far Looks Up: Probing Spatial Representation in Vision-Language Models](papers/2026-06-01.md) |
-| 2026-05-31 | [Why Far Looks Up: Probing Spatial Representation in Vision-Language Models](papers/2026-05-31.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
