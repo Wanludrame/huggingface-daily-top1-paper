@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-06-12 | [Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models](papers/2026-06-12.md) |
 | 2026-06-10 | [Agents' Last Exam](papers/2026-06-10.md) |
 | 2026-06-09 | [UnpredictaBench: A Benchmark for Evaluating Distributional Randomness in LLMs](papers/2026-06-09.md) |
 | 2026-06-08 | [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](papers/2026-06-08.md) |
