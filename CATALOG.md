@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-06-18 | [Self-Evolving Visual Questioner](papers/2026-06-18.md) |
 | 2026-06-17 | [Ling and Ring 2.6 Technical Report: Efficient and Instant Agentic Intelligence at Trillion-Parameter Scale](papers/2026-06-17.md) |
 | 2026-06-16 | [iMaC: Translating Actions into Motion and Contact Images for Embodied World Models](papers/2026-06-16.md) |
 | 2026-06-15 | [Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models](papers/2026-06-15.md) |

@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-06-18 | [Self-Evolving Visual Questioner](papers/2026-06-18.md) |
 | 2026-06-17 | [Ling and Ring 2.6 Technical Report: Efficient and Instant Agentic Intelligence at Trillion-Parameter Scale](papers/2026-06-17.md) |
 | 2026-06-16 | [iMaC: Translating Actions into Motion and Contact Images for Embodied World Models](papers/2026-06-16.md) |
 | 2026-06-15 | [Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models](papers/2026-06-15.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-06-10 | [Agents' Last Exam](papers/2026-06-10.md) |
 | 2026-06-09 | [UnpredictaBench: A Benchmark for Evaluating Distributional Randomness in LLMs](papers/2026-06-09.md) |
 | 2026-06-08 | [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](papers/2026-06-08.md) |
-| 2026-06-07 | [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](papers/2026-06-07.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
