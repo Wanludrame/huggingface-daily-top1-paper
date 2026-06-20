@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-06-21 | [Context-Aware RL for Agentic and Multimodal LLMs](papers/2026-06-21.md) |
 | 2026-06-20 | [Context-Aware RL for Agentic and Multimodal LLMs](papers/2026-06-20.md) |
 | 2026-06-19 | [MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction](papers/2026-06-19.md) |
 | 2026-06-18 | [Self-Evolving Visual Questioner](papers/2026-06-18.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-06-14 | [Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models](papers/2026-06-14.md) |
 | 2026-06-13 | [Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models](papers/2026-06-13.md) |
 | 2026-06-12 | [Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models](papers/2026-06-12.md) |
-| 2026-06-10 | [Agents' Last Exam](papers/2026-06-10.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
