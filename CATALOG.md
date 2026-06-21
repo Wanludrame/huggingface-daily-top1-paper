@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-06-22 | [Context-Aware RL for Agentic and Multimodal LLMs](papers/2026-06-22.md) |
 | 2026-06-21 | [Context-Aware RL for Agentic and Multimodal LLMs](papers/2026-06-21.md) |
 | 2026-06-20 | [Context-Aware RL for Agentic and Multimodal LLMs](papers/2026-06-20.md) |
 | 2026-06-19 | [MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction](papers/2026-06-19.md) |
