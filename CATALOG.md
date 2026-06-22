@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-06-23 | [MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision](papers/2026-06-23.md) |
 | 2026-06-22 | [Context-Aware RL for Agentic and Multimodal LLMs](papers/2026-06-22.md) |
 | 2026-06-21 | [Context-Aware RL for Agentic and Multimodal LLMs](papers/2026-06-21.md) |
 | 2026-06-20 | [Context-Aware RL for Agentic and Multimodal LLMs](papers/2026-06-20.md) |
