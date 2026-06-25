@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-06-26 | [ReNIO: Reweighting Negative Trajectory Importance for LLM On-Policy Distillation](papers/2026-06-26.md) |
 | 2026-06-25 | [LingxiDiagBench: A Multi-Agent Framework for Benchmarking LLMs in Chinese Psychiatric Consultation and Diagnosis](papers/2026-06-25.md) |
 | 2026-06-24 | [Comparing Linear Probes with Mahalanobis Cosine Similarity](papers/2026-06-24.md) |
 | 2026-06-23 | [MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision](papers/2026-06-23.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-06-19 | [MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction](papers/2026-06-19.md) |
 | 2026-06-18 | [Self-Evolving Visual Questioner](papers/2026-06-18.md) |
 | 2026-06-17 | [Ling and Ring 2.6 Technical Report: Efficient and Instant Agentic Intelligence at Trillion-Parameter Scale](papers/2026-06-17.md) |
-| 2026-06-16 | [iMaC: Translating Actions into Motion and Contact Images for Embodied World Models](papers/2026-06-16.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
