@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-06-29 | [JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting](papers/2026-06-29.md) |
 | 2026-06-28 | [JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting](papers/2026-06-28.md) |
 | 2026-06-27 | [JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting](papers/2026-06-27.md) |
 | 2026-06-26 | [ReNIO: Reweighting Negative Trajectory Importance for LLM On-Policy Distillation](papers/2026-06-26.md) |

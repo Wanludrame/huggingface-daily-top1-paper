@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-06-29 | [JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting](papers/2026-06-29.md) |
 | 2026-06-28 | [JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting](papers/2026-06-28.md) |
 | 2026-06-27 | [JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting](papers/2026-06-27.md) |
 | 2026-06-26 | [ReNIO: Reweighting Negative Trajectory Importance for LLM On-Policy Distillation](papers/2026-06-26.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-06-22 | [Context-Aware RL for Agentic and Multimodal LLMs](papers/2026-06-22.md) |
 | 2026-06-21 | [Context-Aware RL for Agentic and Multimodal LLMs](papers/2026-06-21.md) |
 | 2026-06-20 | [Context-Aware RL for Agentic and Multimodal LLMs](papers/2026-06-20.md) |
-| 2026-06-19 | [MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction](papers/2026-06-19.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
