@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-07-02 | [Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models](papers/2026-07-02.md) |
 | 2026-07-01 | [One Model, Many Latencies: Universal Speech Enhancement for Diverse Real-Time Applications](papers/2026-07-01.md) |
 | 2026-06-30 | [Vesta: A Generalist Embodied Reasoning Model](papers/2026-06-30.md) |
 | 2026-06-29 | [JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting](papers/2026-06-29.md) |

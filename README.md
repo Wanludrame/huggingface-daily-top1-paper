@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-07-02 | [Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models](papers/2026-07-02.md) |
 | 2026-07-01 | [One Model, Many Latencies: Universal Speech Enhancement for Diverse Real-Time Applications](papers/2026-07-01.md) |
 | 2026-06-30 | [Vesta: A Generalist Embodied Reasoning Model](papers/2026-06-30.md) |
 | 2026-06-29 | [JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting](papers/2026-06-29.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-06-25 | [LingxiDiagBench: A Multi-Agent Framework for Benchmarking LLMs in Chinese Psychiatric Consultation and Diagnosis](papers/2026-06-25.md) |
 | 2026-06-24 | [Comparing Linear Probes with Mahalanobis Cosine Similarity](papers/2026-06-24.md) |
 | 2026-06-23 | [MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision](papers/2026-06-23.md) |
-| 2026-06-22 | [Context-Aware RL for Agentic and Multimodal LLMs](papers/2026-06-22.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
