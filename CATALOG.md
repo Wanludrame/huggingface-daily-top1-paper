@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-07-05 | [Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning](papers/2026-07-05.md) |
 | 2026-07-04 | [Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning](papers/2026-07-04.md) |
 | 2026-07-03 | [Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?](papers/2026-07-03.md) |
 | 2026-07-02 | [Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models](papers/2026-07-02.md) |

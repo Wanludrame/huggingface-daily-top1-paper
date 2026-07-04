@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-07-05 | [Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning](papers/2026-07-05.md) |
 | 2026-07-04 | [Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning](papers/2026-07-04.md) |
 | 2026-07-03 | [Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?](papers/2026-07-03.md) |
 | 2026-07-02 | [Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models](papers/2026-07-02.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-06-28 | [JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting](papers/2026-06-28.md) |
 | 2026-06-27 | [JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting](papers/2026-06-27.md) |
 | 2026-06-26 | [ReNIO: Reweighting Negative Trajectory Importance for LLM On-Policy Distillation](papers/2026-06-26.md) |
-| 2026-06-25 | [LingxiDiagBench: A Multi-Agent Framework for Benchmarking LLMs in Chinese Psychiatric Consultation and Diagnosis](papers/2026-06-25.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
