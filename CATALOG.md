@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-07-09 | [Rank-Then-Act: Reward-Free Control from Frame-Order Progress](papers/2026-07-09.md) |
 | 2026-07-08 | [Unified Audio Intelligence Without Regressing on Text Intelligence](papers/2026-07-08.md) |
 | 2026-07-07 | [OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers](papers/2026-07-07.md) |
 | 2026-07-06 | [Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning](papers/2026-07-06.md) |

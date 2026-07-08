@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-07-09 | [Rank-Then-Act: Reward-Free Control from Frame-Order Progress](papers/2026-07-09.md) |
 | 2026-07-08 | [Unified Audio Intelligence Without Regressing on Text Intelligence](papers/2026-07-08.md) |
 | 2026-07-07 | [OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers](papers/2026-07-07.md) |
 | 2026-07-06 | [Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning](papers/2026-07-06.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-07-02 | [Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models](papers/2026-07-02.md) |
 | 2026-07-01 | [One Model, Many Latencies: Universal Speech Enhancement for Diverse Real-Time Applications](papers/2026-07-01.md) |
 | 2026-06-30 | [Vesta: A Generalist Embodied Reasoning Model](papers/2026-06-30.md) |
-| 2026-06-29 | [JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting](papers/2026-06-29.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
