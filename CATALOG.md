@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-07-11 | [Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](papers/2026-07-11.md) |
 | 2026-07-10 | [Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning](papers/2026-07-10.md) |
 | 2026-07-09 | [Rank-Then-Act: Reward-Free Control from Frame-Order Progress](papers/2026-07-09.md) |
 | 2026-07-08 | [Unified Audio Intelligence Without Regressing on Text Intelligence](papers/2026-07-08.md) |
