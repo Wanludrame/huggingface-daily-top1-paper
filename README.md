@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-07-15 | [4D Human-Scene Reconstruction from Low-Overlap Captures](papers/2026-07-15.md) |
 | 2026-07-14 | [Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading](papers/2026-07-14.md) |
 | 2026-07-13 | [Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](papers/2026-07-13.md) |
 | 2026-07-12 | [Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](papers/2026-07-12.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-07-08 | [Unified Audio Intelligence Without Regressing on Text Intelligence](papers/2026-07-08.md) |
 | 2026-07-07 | [OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers](papers/2026-07-07.md) |
 | 2026-07-06 | [Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning](papers/2026-07-06.md) |
-| 2026-07-05 | [Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning](papers/2026-07-05.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
