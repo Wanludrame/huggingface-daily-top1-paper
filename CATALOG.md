@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-07-18 | [LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](papers/2026-07-18.md) |
 | 2026-07-17 | [Registers Matter for Pixel-Space Diffusion Transformers](papers/2026-07-17.md) |
 | 2026-07-15 | [4D Human-Scene Reconstruction from Low-Overlap Captures](papers/2026-07-15.md) |
 | 2026-07-14 | [Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading](papers/2026-07-14.md) |
