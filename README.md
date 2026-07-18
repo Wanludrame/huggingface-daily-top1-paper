@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-07-19 | [LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](papers/2026-07-19.md) |
 | 2026-07-18 | [LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](papers/2026-07-18.md) |
 | 2026-07-17 | [Registers Matter for Pixel-Space Diffusion Transformers](papers/2026-07-17.md) |
 | 2026-07-15 | [4D Human-Scene Reconstruction from Low-Overlap Captures](papers/2026-07-15.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-07-11 | [Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](papers/2026-07-11.md) |
 | 2026-07-10 | [Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning](papers/2026-07-10.md) |
 | 2026-07-09 | [Rank-Then-Act: Reward-Free Control from Frame-Order Progress](papers/2026-07-09.md) |
-| 2026-07-08 | [Unified Audio Intelligence Without Regressing on Text Intelligence](papers/2026-07-08.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
