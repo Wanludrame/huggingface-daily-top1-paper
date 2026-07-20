@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-07-21 | [RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources](papers/2026-07-21.md) |
 | 2026-07-20 | [LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](papers/2026-07-20.md) |
 | 2026-07-19 | [LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](papers/2026-07-19.md) |
 | 2026-07-18 | [LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](papers/2026-07-18.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-07-13 | [Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](papers/2026-07-13.md) |
 | 2026-07-12 | [Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](papers/2026-07-12.md) |
 | 2026-07-11 | [Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](papers/2026-07-11.md) |
-| 2026-07-10 | [Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning](papers/2026-07-10.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
