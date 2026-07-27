@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-07-28 | [DataPrep-Bench: Benchmarking LLMs as Training Data Preparators](papers/2026-07-28.md) |
 | 2026-07-27 | [K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs](papers/2026-07-27.md) |
 | 2026-07-26 | [K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs](papers/2026-07-26.md) |
 | 2026-07-25 | [K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs](papers/2026-07-25.md) |
