@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-07-31 | [MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis](papers/2026-07-31.md) |
 | 2026-07-30 | [CodeNib: A Multi-View Data System for Serving Repository Context to Coding Agents](papers/2026-07-30.md) |
 | 2026-07-29 | [Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification](papers/2026-07-29.md) |
 | 2026-07-28 | [DataPrep-Bench: Benchmarking LLMs as Training Data Preparators](papers/2026-07-28.md) |

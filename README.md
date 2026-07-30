@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-07-31 | [MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis](papers/2026-07-31.md) |
 | 2026-07-30 | [CodeNib: A Multi-View Data System for Serving Repository Context to Coding Agents](papers/2026-07-30.md) |
 | 2026-07-29 | [Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification](papers/2026-07-29.md) |
 | 2026-07-28 | [DataPrep-Bench: Benchmarking LLMs as Training Data Preparators](papers/2026-07-28.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-07-24 | [An Exam for Active Observers](papers/2026-07-24.md) |
 | 2026-07-23 | [Text Template Tokens Are Implicit Semantic Registers in Diffusion Transformers](papers/2026-07-23.md) |
 | 2026-07-22 | [Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning](papers/2026-07-22.md) |
-| 2026-07-21 | [RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources](papers/2026-07-21.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
