@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-08-04 | [SAF-OPD: Stable Advantage Fusion for On-Policy Distillation](papers/2026-08-04.md) |
 | 2026-08-03 | [See2Think: Do Multimodal Models Really Use Intermediate Visual States?](papers/2026-08-03.md) |
 | 2026-08-02 | [See2Think: Do Multimodal Models Really Use Intermediate Visual States?](papers/2026-08-02.md) |
 | 2026-08-01 | [See2Think: Do Multimodal Models Really Use Intermediate Visual States?](papers/2026-08-01.md) |
