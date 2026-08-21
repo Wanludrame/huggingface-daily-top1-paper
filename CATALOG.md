@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-08-22 | [Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See](papers/2026-08-22.md) |
 | 2026-08-21 | [Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL](papers/2026-08-21.md) |
 | 2026-08-20 | [Demystifying Agent Skills: Why They Work-Until They Don't](papers/2026-08-20.md) |
 | 2026-08-19 | [StateM: Reaching 95.3% Raw Accuracy, or a \$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling](papers/2026-08-19.md) |
