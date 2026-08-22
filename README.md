@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-08-23 | [Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See](papers/2026-08-23.md) |
 | 2026-08-22 | [Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See](papers/2026-08-22.md) |
 | 2026-08-21 | [Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL](papers/2026-08-21.md) |
 | 2026-08-20 | [Demystifying Agent Skills: Why They Work-Until They Don't](papers/2026-08-20.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-08-02 | [See2Think: Do Multimodal Models Really Use Intermediate Visual States?](papers/2026-08-02.md) |
 | 2026-08-01 | [See2Think: Do Multimodal Models Really Use Intermediate Visual States?](papers/2026-08-01.md) |
 | 2026-07-31 | [MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis](papers/2026-07-31.md) |
-| 2026-07-30 | [CodeNib: A Multi-View Data System for Serving Repository Context to Coding Agents](papers/2026-07-30.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
