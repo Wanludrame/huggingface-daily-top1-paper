@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-08-26 | [Quantization-Aware Healing: A Practical Recipe for Recovering Compressed, 4-Bit LLMs](papers/2026-08-26.md) |
 | 2026-08-25 | [ParaTempo: Efficient Parallel Reasoning via Temporal Confidence](papers/2026-08-25.md) |
 | 2026-08-24 | [τ_0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation](papers/2026-08-24.md) |
 | 2026-08-23 | [Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See](papers/2026-08-23.md) |
