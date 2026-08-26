@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-08-27 | [GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture](papers/2026-08-27.md) |
 | 2026-08-26 | [Quantization-Aware Healing: A Practical Recipe for Recovering Compressed, 4-Bit LLMs](papers/2026-08-26.md) |
 | 2026-08-25 | [ParaTempo: Efficient Parallel Reasoning via Temporal Confidence](papers/2026-08-25.md) |
 | 2026-08-24 | [τ_0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation](papers/2026-08-24.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-08-20 | [Demystifying Agent Skills: Why They Work-Until They Don't](papers/2026-08-20.md) |
 | 2026-08-19 | [StateM: Reaching 95.3% Raw Accuracy, or a \$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling](papers/2026-08-19.md) |
 | 2026-08-04 | [SAF-OPD: Stable Advantage Fusion for On-Policy Distillation](papers/2026-08-04.md) |
-| 2026-08-03 | [See2Think: Do Multimodal Models Really Use Intermediate Visual States?](papers/2026-08-03.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
