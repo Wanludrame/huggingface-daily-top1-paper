@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-08-28 | [Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data](papers/2026-08-28.md) |
 | 2026-08-27 | [GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture](papers/2026-08-27.md) |
 | 2026-08-26 | [Quantization-Aware Healing: A Practical Recipe for Recovering Compressed, 4-Bit LLMs](papers/2026-08-26.md) |
 | 2026-08-25 | [ParaTempo: Efficient Parallel Reasoning via Temporal Confidence](papers/2026-08-25.md) |
