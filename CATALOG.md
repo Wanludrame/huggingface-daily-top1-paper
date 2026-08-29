@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-08-30 | [Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models](papers/2026-08-30.md) |
 | 2026-08-29 | [Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models](papers/2026-08-29.md) |
 | 2026-08-28 | [Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data](papers/2026-08-28.md) |
 | 2026-08-27 | [GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture](papers/2026-08-27.md) |

@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-08-30 | [Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models](papers/2026-08-30.md) |
 | 2026-08-29 | [Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models](papers/2026-08-29.md) |
 | 2026-08-28 | [Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data](papers/2026-08-28.md) |
 | 2026-08-27 | [GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture](papers/2026-08-27.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-08-23 | [Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See](papers/2026-08-23.md) |
 | 2026-08-22 | [Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See](papers/2026-08-22.md) |
 | 2026-08-21 | [Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL](papers/2026-08-21.md) |
-| 2026-08-20 | [Demystifying Agent Skills: Why They Work-Until They Don't](papers/2026-08-20.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
