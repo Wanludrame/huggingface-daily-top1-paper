@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-09-03 | [From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix](papers/2026-09-03.md) |
 | 2026-09-02 | [DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution](papers/2026-09-02.md) |
 | 2026-09-01 | [LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering](papers/2026-09-01.md) |
 | 2026-08-31 | [Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models](papers/2026-08-31.md) |
