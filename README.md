@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-09-04 | [NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Efficient Fine-Tuning and Inference](papers/2026-09-04.md) |
 | 2026-09-03 | [From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix](papers/2026-09-03.md) |
 | 2026-09-02 | [DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution](papers/2026-09-02.md) |
 | 2026-09-01 | [LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering](papers/2026-09-01.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-08-28 | [Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data](papers/2026-08-28.md) |
 | 2026-08-27 | [GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture](papers/2026-08-27.md) |
 | 2026-08-26 | [Quantization-Aware Healing: A Practical Recipe for Recovering Compressed, 4-Bit LLMs](papers/2026-08-26.md) |
-| 2026-08-25 | [ParaTempo: Efficient Parallel Reasoning via Temporal Confidence](papers/2026-08-25.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
