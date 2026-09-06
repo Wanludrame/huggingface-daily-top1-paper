@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-09-07 | [RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning](papers/2026-09-07.md) |
 | 2026-09-06 | [RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning](papers/2026-09-06.md) |
 | 2026-09-05 | [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](papers/2026-09-05.md) |
 | 2026-09-04 | [NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Efficient Fine-Tuning and Inference](papers/2026-09-04.md) |
