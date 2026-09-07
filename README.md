@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-09-08 | [Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](papers/2026-09-08.md) |
 | 2026-09-07 | [RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning](papers/2026-09-07.md) |
 | 2026-09-06 | [RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning](papers/2026-09-06.md) |
 | 2026-09-05 | [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](papers/2026-09-05.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-09-01 | [LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering](papers/2026-09-01.md) |
 | 2026-08-31 | [Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models](papers/2026-08-31.md) |
 | 2026-08-30 | [Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models](papers/2026-08-30.md) |
-| 2026-08-29 | [Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models](papers/2026-08-29.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
