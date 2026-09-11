@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-09-12 | [Memory as Plans: World-Action Modeling with Memory-Grounded Planning](papers/2026-09-12.md) |
 | 2026-09-10 | [What Did I Just Say? Self-Listening for Full-Duplex Speech Models](papers/2026-09-10.md) |
 | 2026-09-09 | [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](papers/2026-09-09.md) |
 | 2026-09-08 | [Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](papers/2026-09-08.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-09-04 | [NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Efficient Fine-Tuning and Inference](papers/2026-09-04.md) |
 | 2026-09-03 | [From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix](papers/2026-09-03.md) |
 | 2026-09-02 | [DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution](papers/2026-09-02.md) |
-| 2026-09-01 | [LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering](papers/2026-09-01.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
