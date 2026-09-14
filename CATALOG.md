@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-09-15 | [DataFlex-RL: An Evaluation Platform for RLVR Data Policies](papers/2026-09-15.md) |
 | 2026-09-14 | [Memory as Plans: World-Action Modeling with Memory-Grounded Planning](papers/2026-09-14.md) |
 | 2026-09-13 | [Memory as Plans: World-Action Modeling with Memory-Grounded Planning](papers/2026-09-13.md) |
 | 2026-09-12 | [Memory as Plans: World-Action Modeling with Memory-Grounded Planning](papers/2026-09-12.md) |
