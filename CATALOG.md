@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-09-18 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](papers/2026-09-18.md) |
 | 2026-09-17 | [HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness](papers/2026-09-17.md) |
 | 2026-09-16 | [LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows](papers/2026-09-16.md) |
 | 2026-09-15 | [DataFlex-RL: An Evaluation Platform for RLVR Data Policies](papers/2026-09-15.md) |
