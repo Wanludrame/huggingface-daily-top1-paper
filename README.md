@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-09-23 | [Realtime-Venus: A full-duplex interaction system with asynchronous delegation](papers/2026-09-23.md) |
 | 2026-09-22 | [IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts](papers/2026-09-22.md) |
 | 2026-09-18 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](papers/2026-09-18.md) |
 | 2026-09-17 | [HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness](papers/2026-09-17.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-09-13 | [Memory as Plans: World-Action Modeling with Memory-Grounded Planning](papers/2026-09-13.md) |
 | 2026-09-12 | [Memory as Plans: World-Action Modeling with Memory-Grounded Planning](papers/2026-09-12.md) |
 | 2026-09-10 | [What Did I Just Say? Self-Listening for Full-Duplex Speech Models](papers/2026-09-10.md) |
-| 2026-09-09 | [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](papers/2026-09-09.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 

@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-09-23 | [Realtime-Venus: A full-duplex interaction system with asynchronous delegation](papers/2026-09-23.md) |
 | 2026-09-22 | [IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts](papers/2026-09-22.md) |
 | 2026-09-18 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](papers/2026-09-18.md) |
 | 2026-09-17 | [HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness](papers/2026-09-17.md) |
