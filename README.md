@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-09-25 | [GeoPair: Geometry-Preserving Cross-Layer Factorization for Training-Free Transformer Compression](papers/2026-09-25.md) |
 | 2026-09-24 | [JEV-as-a-Judge: Accept When Confident, Escalate When Unsure](papers/2026-09-24.md) |
 | 2026-09-23 | [Realtime-Venus: A full-duplex interaction system with asynchronous delegation](papers/2026-09-23.md) |
 | 2026-09-22 | [IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts](papers/2026-09-22.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-09-15 | [DataFlex-RL: An Evaluation Platform for RLVR Data Policies](papers/2026-09-15.md) |
 | 2026-09-14 | [Memory as Plans: World-Action Modeling with Memory-Grounded Planning](papers/2026-09-14.md) |
 | 2026-09-13 | [Memory as Plans: World-Action Modeling with Memory-Grounded Planning](papers/2026-09-13.md) |
-| 2026-09-12 | [Memory as Plans: World-Action Modeling with Memory-Grounded Planning](papers/2026-09-12.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
