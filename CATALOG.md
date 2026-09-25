@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-09-26 | [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](papers/2026-09-26.md) |
 | 2026-09-25 | [GeoPair: Geometry-Preserving Cross-Layer Factorization for Training-Free Transformer Compression](papers/2026-09-25.md) |
 | 2026-09-24 | [JEV-as-a-Judge: Accept When Confident, Escalate When Unsure](papers/2026-09-24.md) |
 | 2026-09-23 | [Realtime-Venus: A full-duplex interaction system with asynchronous delegation](papers/2026-09-23.md) |
