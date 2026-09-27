@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-09-28 | [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](papers/2026-09-28.md) |
 | 2026-09-27 | [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](papers/2026-09-27.md) |
 | 2026-09-26 | [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](papers/2026-09-26.md) |
 | 2026-09-25 | [GeoPair: Geometry-Preserving Cross-Layer Factorization for Training-Free Transformer Compression](papers/2026-09-25.md) |
