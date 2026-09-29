@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-09-30 | [VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](papers/2026-09-30.md) |
 | 2026-09-29 | [Disaggregated Quantization: Specializing LLM Prefill and Decode](papers/2026-09-29.md) |
 | 2026-09-28 | [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](papers/2026-09-28.md) |
 | 2026-09-27 | [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](papers/2026-09-27.md) |
