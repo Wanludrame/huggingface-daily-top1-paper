@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-10-02 | [BiasReducer: Adaptive Bias Mitigation for Reward Models](papers/2026-10-02.md) |
 | 2026-10-01 | [Scaling Properties of Same-Family On-Policy Distillation](papers/2026-10-01.md) |
 | 2026-09-30 | [VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](papers/2026-09-30.md) |
 | 2026-09-29 | [Disaggregated Quantization: Specializing LLM Prefill and Decode](papers/2026-09-29.md) |
