@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-10-03 | [On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](papers/2026-10-03.md) |
 | 2026-10-02 | [BiasReducer: Adaptive Bias Mitigation for Reward Models](papers/2026-10-02.md) |
 | 2026-10-01 | [Scaling Properties of Same-Family On-Policy Distillation](papers/2026-10-01.md) |
 | 2026-09-30 | [VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](papers/2026-09-30.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-09-26 | [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](papers/2026-09-26.md) |
 | 2026-09-25 | [GeoPair: Geometry-Preserving Cross-Layer Factorization for Training-Free Transformer Compression](papers/2026-09-25.md) |
 | 2026-09-24 | [JEV-as-a-Judge: Accept When Confident, Escalate When Unsure](papers/2026-09-24.md) |
-| 2026-09-23 | [Realtime-Venus: A full-duplex interaction system with asynchronous delegation](papers/2026-09-23.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
