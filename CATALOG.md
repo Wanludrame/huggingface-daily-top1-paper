@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-10-05 | [Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It](papers/2026-10-05.md) |
 | 2026-10-04 | [Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It](papers/2026-10-04.md) |
 | 2026-10-03 | [On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](papers/2026-10-03.md) |
 | 2026-10-02 | [BiasReducer: Adaptive Bias Mitigation for Reward Models](papers/2026-10-02.md) |

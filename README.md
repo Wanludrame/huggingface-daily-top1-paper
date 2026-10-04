@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-10-05 | [Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It](papers/2026-10-05.md) |
 | 2026-10-04 | [Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It](papers/2026-10-04.md) |
 | 2026-10-03 | [On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](papers/2026-10-03.md) |
 | 2026-10-02 | [BiasReducer: Adaptive Bias Mitigation for Reward Models](papers/2026-10-02.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-09-28 | [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](papers/2026-09-28.md) |
 | 2026-09-27 | [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](papers/2026-09-27.md) |
 | 2026-09-26 | [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](papers/2026-09-26.md) |
-| 2026-09-25 | [GeoPair: Geometry-Preserving Cross-Layer Factorization for Training-Free Transformer Compression](papers/2026-09-25.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
