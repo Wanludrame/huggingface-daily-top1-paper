@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-10-07 | [Beyond Semantic Similarity: Performance and Costs of Agentic Retrieval for Complex Tasks](papers/2026-10-07.md) |
 | 2026-10-06 | [RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations](papers/2026-10-06.md) |
 | 2026-10-05 | [Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It](papers/2026-10-05.md) |
 | 2026-10-04 | [Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It](papers/2026-10-04.md) |

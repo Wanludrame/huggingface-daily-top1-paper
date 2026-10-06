@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-10-07 | [Beyond Semantic Similarity: Performance and Costs of Agentic Retrieval for Complex Tasks](papers/2026-10-07.md) |
 | 2026-10-06 | [RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations](papers/2026-10-06.md) |
 | 2026-10-05 | [Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It](papers/2026-10-05.md) |
 | 2026-10-04 | [Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It](papers/2026-10-04.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-09-30 | [VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](papers/2026-09-30.md) |
 | 2026-09-29 | [Disaggregated Quantization: Specializing LLM Prefill and Decode](papers/2026-09-29.md) |
 | 2026-09-28 | [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](papers/2026-09-28.md) |
-| 2026-09-27 | [Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs](papers/2026-09-27.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
