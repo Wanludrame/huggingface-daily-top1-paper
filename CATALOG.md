@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-10-10 | [Opera: A Verbal Critic Framework for Long-horizon Coding Agents](papers/2026-10-10.md) |
 | 2026-10-09 | [MIMESIS: Learning User Simulators as Training Environments for Interactive Agents](papers/2026-10-09.md) |
 | 2026-10-08 | [CheckerBench: Can Long-Horizon Agents Synthesize Static-Analysis Checkers?](papers/2026-10-08.md) |
 | 2026-10-07 | [Beyond Semantic Similarity: Performance and Costs of Agentic Retrieval for Complex Tasks](papers/2026-10-07.md) |

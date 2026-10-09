@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-10-10 | [Opera: A Verbal Critic Framework for Long-horizon Coding Agents](papers/2026-10-10.md) |
 | 2026-10-09 | [MIMESIS: Learning User Simulators as Training Environments for Interactive Agents](papers/2026-10-09.md) |
 | 2026-10-08 | [CheckerBench: Can Long-Horizon Agents Synthesize Static-Analysis Checkers?](papers/2026-10-08.md) |
 | 2026-10-07 | [Beyond Semantic Similarity: Performance and Costs of Agentic Retrieval for Complex Tasks](papers/2026-10-07.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-10-03 | [On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](papers/2026-10-03.md) |
 | 2026-10-02 | [BiasReducer: Adaptive Bias Mitigation for Reward Models](papers/2026-10-02.md) |
 | 2026-10-01 | [Scaling Properties of Same-Family On-Policy Distillation](papers/2026-10-01.md) |
-| 2026-09-30 | [VisionHOPE: Visual Backbones as Self-Modifying Learning Systems](papers/2026-09-30.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
