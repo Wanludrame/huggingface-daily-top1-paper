@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-10-13 | [Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models](papers/2026-10-13.md) |
 | 2026-10-12 | [Opera: A Verbal Critic Framework for Long-horizon Coding Agents](papers/2026-10-12.md) |
 | 2026-10-11 | [Opera: A Verbal Critic Framework for Long-horizon Coding Agents](papers/2026-10-11.md) |
 | 2026-10-10 | [Opera: A Verbal Critic Framework for Long-horizon Coding Agents](papers/2026-10-10.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-10-06 | [RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations](papers/2026-10-06.md) |
 | 2026-10-05 | [Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It](papers/2026-10-05.md) |
 | 2026-10-04 | [Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It](papers/2026-10-04.md) |
-| 2026-10-03 | [On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](papers/2026-10-03.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
