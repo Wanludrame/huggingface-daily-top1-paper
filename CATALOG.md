@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-10-16 | [History Replays Itself: Unleashing Long-Context Capability in Linear Attention](papers/2026-10-16.md) |
 | 2026-10-15 | [Pristine Models](papers/2026-10-15.md) |
 | 2026-10-13 | [Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models](papers/2026-10-13.md) |
 | 2026-10-12 | [Opera: A Verbal Critic Framework for Long-horizon Coding Agents](papers/2026-10-12.md) |
