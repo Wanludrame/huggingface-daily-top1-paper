@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-10-17 | [LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents](papers/2026-10-17.md) |
 | 2026-10-16 | [History Replays Itself: Unleashing Long-Context Capability in Linear Attention](papers/2026-10-16.md) |
 | 2026-10-15 | [Pristine Models](papers/2026-10-15.md) |
 | 2026-10-13 | [Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models](papers/2026-10-13.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-10-09 | [MIMESIS: Learning User Simulators as Training Environments for Interactive Agents](papers/2026-10-09.md) |
 | 2026-10-08 | [CheckerBench: Can Long-Horizon Agents Synthesize Static-Analysis Checkers?](papers/2026-10-08.md) |
 | 2026-10-07 | [Beyond Semantic Similarity: Performance and Costs of Agentic Retrieval for Complex Tasks](papers/2026-10-07.md) |
-| 2026-10-06 | [RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations](papers/2026-10-06.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
