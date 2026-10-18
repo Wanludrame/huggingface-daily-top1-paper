@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-10-19 | [Behavioral Compositionality of Sparse Autoencoder Representations](papers/2026-10-19.md) |
 | 2026-10-18 | [Behavioral Compositionality of Sparse Autoencoder Representations](papers/2026-10-18.md) |
 | 2026-10-17 | [LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents](papers/2026-10-17.md) |
 | 2026-10-16 | [History Replays Itself: Unleashing Long-Context Capability in Linear Attention](papers/2026-10-16.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-10-11 | [Opera: A Verbal Critic Framework for Long-horizon Coding Agents](papers/2026-10-11.md) |
 | 2026-10-10 | [Opera: A Verbal Critic Framework for Long-horizon Coding Agents](papers/2026-10-10.md) |
 | 2026-10-09 | [MIMESIS: Learning User Simulators as Training Environments for Interactive Agents](papers/2026-10-09.md) |
-| 2026-10-08 | [CheckerBench: Can Long-Horizon Agents Synthesize Static-Analysis Checkers?](papers/2026-10-08.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
