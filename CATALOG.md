@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-10-20 | [OmniXRef: A Unified Framework for Multimodal Multi-Reference Video Editing](papers/2026-10-20.md) |
 | 2026-10-19 | [Behavioral Compositionality of Sparse Autoencoder Representations](papers/2026-10-19.md) |
 | 2026-10-18 | [Behavioral Compositionality of Sparse Autoencoder Representations](papers/2026-10-18.md) |
 | 2026-10-17 | [LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents](papers/2026-10-17.md) |
