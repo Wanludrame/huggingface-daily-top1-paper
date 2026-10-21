@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-10-22 | [EAU: Environment-Agent-User Co-evolution for Training User-Centric Agents](papers/2026-10-22.md) |
 | 2026-10-21 | [StopLoss: Teaching Agents to Predict Failure and Stop Early](papers/2026-10-21.md) |
 | 2026-10-20 | [OmniXRef: A Unified Framework for Multimodal Multi-Reference Video Editing](papers/2026-10-20.md) |
 | 2026-10-19 | [Behavioral Compositionality of Sparse Autoencoder Representations](papers/2026-10-19.md) |

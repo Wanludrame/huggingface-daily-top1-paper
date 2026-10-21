@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-10-22 | [EAU: Environment-Agent-User Co-evolution for Training User-Centric Agents](papers/2026-10-22.md) |
 | 2026-10-21 | [StopLoss: Teaching Agents to Predict Failure and Stop Early](papers/2026-10-21.md) |
 | 2026-10-20 | [OmniXRef: A Unified Framework for Multimodal Multi-Reference Video Editing](papers/2026-10-20.md) |
 | 2026-10-19 | [Behavioral Compositionality of Sparse Autoencoder Representations](papers/2026-10-19.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-10-15 | [Pristine Models](papers/2026-10-15.md) |
 | 2026-10-13 | [Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models](papers/2026-10-13.md) |
 | 2026-10-12 | [Opera: A Verbal Critic Framework for Long-horizon Coding Agents](papers/2026-10-12.md) |
-| 2026-10-11 | [Opera: A Verbal Critic Framework for Long-horizon Coding Agents](papers/2026-10-11.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
