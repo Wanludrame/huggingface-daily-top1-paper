@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-10-25 | [Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems](papers/2026-10-25.md) |
 | 2026-10-24 | [FilmFlow: Agentic System for 3D Virtual Film Cinematography](papers/2026-10-24.md) |
 | 2026-10-23 | [StyleStream 2.0: Fast and Controllable Streaming Voice Style Conversion](papers/2026-10-23.md) |
 | 2026-10-22 | [EAU: Environment-Agent-User Co-evolution for Training User-Centric Agents](papers/2026-10-22.md) |
