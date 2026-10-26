@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-10-27 | [Kolab: Benchmarking Human-Agent Collaboration in Long-Horizon Workflows](papers/2026-10-27.md) |
 | 2026-10-26 | [Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models](papers/2026-10-26.md) |
 | 2026-10-25 | [Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems](papers/2026-10-25.md) |
 | 2026-10-24 | [FilmFlow: Agentic System for 3D Virtual Film Cinematography](papers/2026-10-24.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-10-20 | [OmniXRef: A Unified Framework for Multimodal Multi-Reference Video Editing](papers/2026-10-20.md) |
 | 2026-10-19 | [Behavioral Compositionality of Sparse Autoencoder Representations](papers/2026-10-19.md) |
 | 2026-10-18 | [Behavioral Compositionality of Sparse Autoencoder Representations](papers/2026-10-18.md) |
-| 2026-10-17 | [LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents](papers/2026-10-17.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
