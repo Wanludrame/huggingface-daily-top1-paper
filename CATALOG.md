@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-10-28 | [iPrefBench: A User-Centric Benchmark for Personalized Mobile Use Agents](papers/2026-10-28.md) |
 | 2026-10-27 | [Kolab: Benchmarking Human-Agent Collaboration in Long-Horizon Workflows](papers/2026-10-27.md) |
 | 2026-10-26 | [Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models](papers/2026-10-26.md) |
 | 2026-10-25 | [Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems](papers/2026-10-25.md) |
