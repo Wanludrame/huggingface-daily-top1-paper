@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-11-03 | [Follow the Gradient: Tracing Safety Degradation Back to Training Data](papers/2026-11-03.md) |
 | 2026-11-02 | [Proving and Improving the Platonic Representation Hypothesis with JEPAs](papers/2026-11-02.md) |
 | 2026-10-28 | [iPrefBench: A User-Centric Benchmark for Personalized Mobile Use Agents](papers/2026-10-28.md) |
 | 2026-10-27 | [Kolab: Benchmarking Human-Agent Collaboration in Long-Horizon Workflows](papers/2026-10-27.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-10-23 | [StyleStream 2.0: Fast and Controllable Streaming Voice Style Conversion](papers/2026-10-23.md) |
 | 2026-10-22 | [EAU: Environment-Agent-User Co-evolution for Training User-Centric Agents](papers/2026-10-22.md) |
 | 2026-10-21 | [StopLoss: Teaching Agents to Predict Failure and Stop Early](papers/2026-10-21.md) |
-| 2026-10-20 | [OmniXRef: A Unified Framework for Multimodal Multi-Reference Video Editing](papers/2026-10-20.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
