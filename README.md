@@ -10,6 +10,7 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-11-05 | [Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation](papers/2026-11-05.md) |
 | 2026-11-04 | [SWE-Trail: History-Guided Trajectory Collection for Coding Agent Training](papers/2026-11-04.md) |
 | 2026-11-03 | [Follow the Gradient: Tracing Safety Degradation Back to Training Data](papers/2026-11-03.md) |
 | 2026-11-02 | [Proving and Improving the Platonic Representation Hypothesis with JEPAs](papers/2026-11-02.md) |
@@ -19,7 +20,6 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-10-25 | [Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems](papers/2026-10-25.md) |
 | 2026-10-24 | [FilmFlow: Agentic System for 3D Virtual Film Cinematography](papers/2026-10-24.md) |
 | 2026-10-23 | [StyleStream 2.0: Fast and Controllable Streaming Voice Style Conversion](papers/2026-10-23.md) |
-| 2026-10-22 | [EAU: Environment-Agent-User Co-evolution for Training User-Centric Agents](papers/2026-10-22.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
