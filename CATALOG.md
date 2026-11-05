@@ -6,6 +6,8 @@
 | 2026-11-04 | [SWE-Trail: History-Guided Trajectory Collection for Coding Agent Training](papers/2026-11-04.md) |
 | 2026-11-03 | [Follow the Gradient: Tracing Safety Degradation Back to Training Data](papers/2026-11-03.md) |
 | 2026-11-02 | [Proving and Improving the Platonic Representation Hypothesis with JEPAs](papers/2026-11-02.md) |
+| 2026-10-30 | [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](papers/2026-10-30.md) |
+| 2026-10-29 | [OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images](papers/2026-10-29.md) |
 | 2026-10-28 | [iPrefBench: A User-Centric Benchmark for Personalized Mobile Use Agents](papers/2026-10-28.md) |
 | 2026-10-27 | [Kolab: Benchmarking Human-Agent Collaboration in Long-Horizon Workflows](papers/2026-10-27.md) |
 | 2026-10-26 | [Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models](papers/2026-10-26.md) |
@@ -20,6 +22,7 @@
 | 2026-10-17 | [LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents](papers/2026-10-17.md) |
 | 2026-10-16 | [History Replays Itself: Unleashing Long-Context Capability in Linear Attention](papers/2026-10-16.md) |
 | 2026-10-15 | [Pristine Models](papers/2026-10-15.md) |
+| 2026-10-14 | [Jeva: System One Models from First Principles](papers/2026-10-14.md) |
 | 2026-10-13 | [Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models](papers/2026-10-13.md) |
 | 2026-10-12 | [Opera: A Verbal Critic Framework for Long-horizon Coding Agents](papers/2026-10-12.md) |
 | 2026-10-11 | [Opera: A Verbal Critic Framework for Long-horizon Coding Agents](papers/2026-10-11.md) |
@@ -42,6 +45,7 @@
 | 2026-09-24 | [JEV-as-a-Judge: Accept When Confident, Escalate When Unsure](papers/2026-09-24.md) |
 | 2026-09-23 | [Realtime-Venus: A full-duplex interaction system with asynchronous delegation](papers/2026-09-23.md) |
 | 2026-09-22 | [IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts](papers/2026-09-22.md) |
+| 2026-09-21 | [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](papers/2026-09-21.md) |
 | 2026-09-18 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](papers/2026-09-18.md) |
 | 2026-09-17 | [HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness](papers/2026-09-17.md) |
 | 2026-09-16 | [LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows](papers/2026-09-16.md) |
@@ -49,6 +53,7 @@
 | 2026-09-14 | [Memory as Plans: World-Action Modeling with Memory-Grounded Planning](papers/2026-09-14.md) |
 | 2026-09-13 | [Memory as Plans: World-Action Modeling with Memory-Grounded Planning](papers/2026-09-13.md) |
 | 2026-09-12 | [Memory as Plans: World-Action Modeling with Memory-Grounded Planning](papers/2026-09-12.md) |
+| 2026-09-11 | [NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction](papers/2026-09-11.md) |
 | 2026-09-10 | [What Did I Just Say? Self-Listening for Full-Duplex Speech Models](papers/2026-09-10.md) |
 | 2026-09-09 | [Unlocking Lossless Speedups in LLMs via Discrete Diffusion](papers/2026-09-09.md) |
 | 2026-09-08 | [Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems](papers/2026-09-08.md) |
@@ -72,6 +77,16 @@
 | 2026-08-21 | [Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL](papers/2026-08-21.md) |
 | 2026-08-20 | [Demystifying Agent Skills: Why They Work-Until They Don't](papers/2026-08-20.md) |
 | 2026-08-19 | [StateM: Reaching 95.3% Raw Accuracy, or a \$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling](papers/2026-08-19.md) |
+| 2026-08-18 | [StateM: Reaching 95.3% Raw Accuracy, or a \$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling](papers/2026-08-18.md) |
+| 2026-08-17 | [Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination](papers/2026-08-17.md) |
+| 2026-08-14 | [DarwinX: Evolving Agent Harnesses Through Natural Selection](papers/2026-08-14.md) |
+| 2026-08-13 | [AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses](papers/2026-08-13.md) |
+| 2026-08-12 | [Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design](papers/2026-08-12.md) |
+| 2026-08-11 | [BDH-CQ: In-Context Learning with Recurrent Latent Reasoning](papers/2026-08-11.md) |
+| 2026-08-10 | [MatrAIx: Simulating the World with 8.3 Billion Persona Agents](papers/2026-08-10.md) |
+| 2026-08-07 | [AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning](papers/2026-08-07.md) |
+| 2026-08-06 | [Recursive Synthesis for Long-Horizon Terminal Tasks](papers/2026-08-06.md) |
+| 2026-08-05 | [JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion](papers/2026-08-05.md) |
 | 2026-08-04 | [SAF-OPD: Stable Advantage Fusion for On-Policy Distillation](papers/2026-08-04.md) |
 | 2026-08-03 | [See2Think: Do Multimodal Models Really Use Intermediate Visual States?](papers/2026-08-03.md) |
 | 2026-08-02 | [See2Think: Do Multimodal Models Really Use Intermediate Visual States?](papers/2026-08-02.md) |
@@ -91,6 +106,7 @@
 | 2026-07-19 | [LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](papers/2026-07-19.md) |
 | 2026-07-18 | [LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](papers/2026-07-18.md) |
 | 2026-07-17 | [Registers Matter for Pixel-Space Diffusion Transformers](papers/2026-07-17.md) |
+| 2026-07-16 | [Boogu-Image-0.1: Boosting Open Agentic Multimodal Generation via Understanding under a Minimal Budget](papers/2026-07-16.md) |
 | 2026-07-15 | [4D Human-Scene Reconstruction from Low-Overlap Captures](papers/2026-07-15.md) |
 | 2026-07-14 | [Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading](papers/2026-07-14.md) |
 | 2026-07-13 | [Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](papers/2026-07-13.md) |
@@ -125,6 +141,7 @@
 | 2026-06-14 | [Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models](papers/2026-06-14.md) |
 | 2026-06-13 | [Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models](papers/2026-06-13.md) |
 | 2026-06-12 | [Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models](papers/2026-06-12.md) |
+| 2026-06-11 | [Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](papers/2026-06-11.md) |
 | 2026-06-10 | [Agents' Last Exam](papers/2026-06-10.md) |
 | 2026-06-09 | [UnpredictaBench: A Benchmark for Evaluating Distributional Randomness in LLMs](papers/2026-06-09.md) |
 | 2026-06-08 | [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](papers/2026-06-08.md) |
@@ -174,6 +191,7 @@
 | 2026-04-23 | [ShadowPEFT: Shadow Network for Parameter-Efficient Fine-Tuning](papers/2026-04-23.md) |
 | 2026-04-22 | [The Illusion of Certainty: Decoupling Capability and Calibration in On-Policy Distillation](papers/2026-04-22.md) |
 | 2026-04-21 | [Elucidating the SNR-t Bias of Diffusion Probabilistic Models](papers/2026-04-21.md) |
+| 2026-04-20 | [Qwen3.5-Omni Technical Report](papers/2026-04-20.md) |
 | 2026-04-18 | [Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models](papers/2026-04-18.md) |
 | 2026-04-17 | [Target Policy Optimization](papers/2026-04-17.md) |
 | 2026-04-16 | [RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time](papers/2026-04-16.md) |

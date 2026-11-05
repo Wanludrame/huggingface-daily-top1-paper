@@ -14,12 +14,12 @@ Daily automatic fetch of the #1 trending paper from [HuggingFace Daily Papers](h
 | 2026-11-04 | [SWE-Trail: History-Guided Trajectory Collection for Coding Agent Training](papers/2026-11-04.md) |
 | 2026-11-03 | [Follow the Gradient: Tracing Safety Degradation Back to Training Data](papers/2026-11-03.md) |
 | 2026-11-02 | [Proving and Improving the Platonic Representation Hypothesis with JEPAs](papers/2026-11-02.md) |
+| 2026-10-30 | [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](papers/2026-10-30.md) |
+| 2026-10-29 | [OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images](papers/2026-10-29.md) |
 | 2026-10-28 | [iPrefBench: A User-Centric Benchmark for Personalized Mobile Use Agents](papers/2026-10-28.md) |
 | 2026-10-27 | [Kolab: Benchmarking Human-Agent Collaboration in Long-Horizon Workflows](papers/2026-10-27.md) |
 | 2026-10-26 | [Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models](papers/2026-10-26.md) |
 | 2026-10-25 | [Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems](papers/2026-10-25.md) |
-| 2026-10-24 | [FilmFlow: Agentic System for 3D Virtual Film Cinematography](papers/2026-10-24.md) |
-| 2026-10-23 | [StyleStream 2.0: Fast and Controllable Streaming Voice Style Conversion](papers/2026-10-23.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
