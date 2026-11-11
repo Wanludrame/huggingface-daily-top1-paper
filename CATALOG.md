@@ -2,6 +2,10 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-11-11 | [World In-Context Learning for Agentic Robot Manipulation](papers/2026-11-11.md) |
+| 2026-11-10 | [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](papers/2026-11-10.md) |
+| 2026-11-09 | [Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription](papers/2026-11-09.md) |
+| 2026-11-06 | [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](papers/2026-11-06.md) |
 | 2026-11-05 | [Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation](papers/2026-11-05.md) |
 | 2026-11-04 | [SWE-Trail: History-Guided Trajectory Collection for Coding Agent Training](papers/2026-11-04.md) |
 | 2026-11-03 | [Follow the Gradient: Tracing Safety Degradation Back to Training Data](papers/2026-11-03.md) |
