@@ -13,6 +13,7 @@ Dates use UTC: the daily 07:00 China-time run fetches the previous UTC date; dat
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-11-12 | [Scaling Mathematical Proof Supervision from Structured Textbooks](papers/2026-11-12.md) |
 | 2026-11-11 | [World In-Context Learning for Agentic Robot Manipulation](papers/2026-11-11.md) |
 | 2026-11-10 | [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](papers/2026-11-10.md) |
 | 2026-11-09 | [Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription](papers/2026-11-09.md) |
@@ -22,7 +23,6 @@ Dates use UTC: the daily 07:00 China-time run fetches the previous UTC date; dat
 | 2026-11-03 | [Follow the Gradient: Tracing Safety Degradation Back to Training Data](papers/2026-11-03.md) |
 | 2026-11-02 | [Proving and Improving the Platonic Representation Hypothesis with JEPAs](papers/2026-11-02.md) |
 | 2026-10-30 | [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](papers/2026-10-30.md) |
-| 2026-10-29 | [OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images](papers/2026-10-29.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
