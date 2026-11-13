@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-11-13 | [SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](papers/2026-11-13.md) |
 | 2026-11-12 | [Scaling Mathematical Proof Supervision from Structured Textbooks](papers/2026-11-12.md) |
 | 2026-11-11 | [World In-Context Learning for Agentic Robot Manipulation](papers/2026-11-11.md) |
 | 2026-11-10 | [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](papers/2026-11-10.md) |
