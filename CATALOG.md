@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-11-17 | [Sage S2.1 Flash Technical Report](papers/2026-11-17.md) |
 | 2026-11-16 | [Envisioning Agentic Robotics: A New Era of Robotic Systems](papers/2026-11-16.md) |
 | 2026-11-13 | [SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](papers/2026-11-13.md) |
 | 2026-11-12 | [Scaling Mathematical Proof Supervision from Structured Textbooks](papers/2026-11-12.md) |

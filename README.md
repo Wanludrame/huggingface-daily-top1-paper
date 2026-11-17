@@ -13,6 +13,7 @@ Dates use UTC: the daily 07:00 China-time run fetches the previous UTC date; dat
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-11-17 | [Sage S2.1 Flash Technical Report](papers/2026-11-17.md) |
 | 2026-11-16 | [Envisioning Agentic Robotics: A New Era of Robotic Systems](papers/2026-11-16.md) |
 | 2026-11-13 | [SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](papers/2026-11-13.md) |
 | 2026-11-12 | [Scaling Mathematical Proof Supervision from Structured Textbooks](papers/2026-11-12.md) |
@@ -22,7 +23,6 @@ Dates use UTC: the daily 07:00 China-time run fetches the previous UTC date; dat
 | 2026-11-06 | [VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](papers/2026-11-06.md) |
 | 2026-11-05 | [Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation](papers/2026-11-05.md) |
 | 2026-11-04 | [SWE-Trail: History-Guided Trajectory Collection for Coding Agent Training](papers/2026-11-04.md) |
-| 2026-11-03 | [Follow the Gradient: Tracing Safety Degradation Back to Training Data](papers/2026-11-03.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
