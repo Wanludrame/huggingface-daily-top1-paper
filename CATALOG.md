@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-11-18 | [TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks](papers/2026-11-18.md) |
 | 2026-11-17 | [Sage S2.1 Flash Technical Report](papers/2026-11-17.md) |
 | 2026-11-16 | [Envisioning Agentic Robotics: A New Era of Robotic Systems](papers/2026-11-16.md) |
 | 2026-11-13 | [SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](papers/2026-11-13.md) |
