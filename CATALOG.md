@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-11-23 | [cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction](papers/2026-11-23.md) |
 | 2026-11-20 | [WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection](papers/2026-11-20.md) |
 | 2026-11-19 | [Jeveration: System One Models Now Generate](papers/2026-11-19.md) |
 | 2026-11-18 | [TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks](papers/2026-11-18.md) |
