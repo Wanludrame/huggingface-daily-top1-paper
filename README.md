@@ -13,6 +13,7 @@ Dates use UTC: the daily 07:00 China-time run fetches the previous UTC date; dat
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-11-25 | [Antom 3-in-1 Transformer: A Payment Foundation Model](papers/2026-11-25.md) |
 | 2026-11-24 | [Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control](papers/2026-11-24.md) |
 | 2026-11-23 | [cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction](papers/2026-11-23.md) |
 | 2026-11-20 | [WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection](papers/2026-11-20.md) |
@@ -22,7 +23,6 @@ Dates use UTC: the daily 07:00 China-time run fetches the previous UTC date; dat
 | 2026-11-16 | [Envisioning Agentic Robotics: A New Era of Robotic Systems](papers/2026-11-16.md) |
 | 2026-11-13 | [SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](papers/2026-11-13.md) |
 | 2026-11-12 | [Scaling Mathematical Proof Supervision from Structured Textbooks](papers/2026-11-12.md) |
-| 2026-11-11 | [World In-Context Learning for Agentic Robot Manipulation](papers/2026-11-11.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
