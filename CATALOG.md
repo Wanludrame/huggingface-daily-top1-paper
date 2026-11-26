@@ -2,6 +2,7 @@
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-11-26 | [Real2SimLab: A Unified Platform for Real-to-Simulation Transfer](papers/2026-11-26.md) |
 | 2026-11-25 | [Antom 3-in-1 Transformer: A Payment Foundation Model](papers/2026-11-25.md) |
 | 2026-11-24 | [Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control](papers/2026-11-24.md) |
 | 2026-11-23 | [cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction](papers/2026-11-23.md) |
