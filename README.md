@@ -13,6 +13,7 @@ Dates use UTC: the daily 07:00 China-time run fetches the previous UTC date; dat
 
 | 日期 Date | 论文 Paper |
 |-----------|-----------|
+| 2026-11-27 | [Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability](papers/2026-11-27.md) |
 | 2026-11-26 | [Real2SimLab: A Unified Platform for Real-to-Simulation Transfer](papers/2026-11-26.md) |
 | 2026-11-25 | [Antom 3-in-1 Transformer: A Payment Foundation Model](papers/2026-11-25.md) |
 | 2026-11-24 | [Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control](papers/2026-11-24.md) |
@@ -22,7 +23,6 @@ Dates use UTC: the daily 07:00 China-time run fetches the previous UTC date; dat
 | 2026-11-18 | [TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks](papers/2026-11-18.md) |
 | 2026-11-17 | [Sage S2.1 Flash Technical Report](papers/2026-11-17.md) |
 | 2026-11-16 | [Envisioning Agentic Robotics: A New Era of Robotic Systems](papers/2026-11-16.md) |
-| 2026-11-13 | [SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](papers/2026-11-13.md) |
 
 [All Papers / 完整目录 →](CATALOG.md)
 
